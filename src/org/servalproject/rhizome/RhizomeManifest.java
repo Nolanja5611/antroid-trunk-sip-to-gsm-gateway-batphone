@@ -24,17 +24,17 @@ import java.util.Properties;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Enumeration;
+
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.OutputStreamWriter;
 import java.io.IOException;
-import java.util.Date;
 import java.text.DateFormat;
-//import org.servalproject.rhizome.RhizomeManifestParseException;
-//import org.servalproject.rhizome.RhizomeManifestSizeException;
 
 import android.util.Log;
 import android.os.Bundle;
+import java.util.Date;
+import java.util.Properties;
 
 /**
  * Represents a Rhizome manifest, with methods to serialise to/from a byte stream for storage

@@ -388,7 +388,6 @@ You must acknowledge that you use this software entirely at your own risk.</stri
 		<item>wpa_supplicant</item>  
 	</string-array>	
 	
-	<!-- Sipdroid data was here -->  
 		<string name="prepwizstatusoff">Image for Preperation Status Off</string>
 		<string name="prepwizstatuson">Image for Preperation Status On</string> 	 	
 		<string name="checkingForRoot">Checking for root access</string>  
